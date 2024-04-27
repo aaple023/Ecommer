@@ -1,0 +1,1 @@
+{"uuid":"3f0559dc-9378-4ed7-8a0c-d2ef53625202","name":"BaseOS.Lunch","children":["0119484d-4bcb-41f1-9ecd-97db4ac2ba8b"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714216268374,"stop":1714216278881}],"afters":[],"start":1714216268259,"stop":1714216279333}

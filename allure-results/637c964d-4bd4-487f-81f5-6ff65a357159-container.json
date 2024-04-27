@@ -1,0 +1,1 @@
+{"uuid":"637c964d-4bd4-487f-81f5-6ff65a357159","name":"BaseOS.OsSetUp","children":["1365001e-f8ab-4619-b684-4347d3fdd21d"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1714212666716,"stop":1714212712710}],"afters":[],"start":1714212666635,"stop":1714212713044}
